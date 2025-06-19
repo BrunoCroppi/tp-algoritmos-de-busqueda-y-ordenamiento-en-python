@@ -12,8 +12,8 @@ El objetivo principal fue aplicar estos algoritmos sobre una lista de datos, com
 
 ## 👨‍💻 Autores
 
-- Ignacio Figueroa - [ignaciofigueroadev@gmail.com](mailto:ignaciofigueroadev@gmail.com)
-- Bruno Croppi - [croppibruno@gmail.com](mailto:croppibruno@gmail.com)
+- Ignacio Figueroa - [ignaciofigueroadev@gmail.com](mailto:ignaciofigueroadev@gmail.com) - DNI 45406120
+- Bruno Croppi - [croppibruno@gmail.com](mailto:croppibruno@gmail.com) - DNI 41906566
 
 ## 📄 Contenido
 
