@@ -13,7 +13,6 @@ El objetivo principal fue aplicar estos algoritmos sobre una lista de datos, com
 ## Anexo
 
 - [Enlace a video explicativo (Youtube)](https://youtu.be/06OyYQpJKj4)
-
 - [Enlace a repositorio del código (GitHub)](https://github.com/figueroaignacio/tp-algoritmos-de-busqueda-y-ordenamiento-en-python)
 
 ## Autores
